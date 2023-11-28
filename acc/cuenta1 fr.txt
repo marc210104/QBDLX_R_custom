@@ -1,0 +1,4 @@
+Email: jerome.groseiller@wanadoo.fr
+Hashed Password: e83a56566965d6757f5aa77e68508aca
+User ID: 392543
+User Token: btq1NL2LNnTmb-xaMSU-he_7ANABkC90h3ow5VPU9edWJ5ExV7C03mgpsKiolGccMFLj9AykckvF9lF4fOLKWw

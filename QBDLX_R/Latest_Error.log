@@ -1,0 +1,2 @@
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en QobuzDownloaderX.LoginFrm.<loginBG_DoWork>d__35.MoveNext()
